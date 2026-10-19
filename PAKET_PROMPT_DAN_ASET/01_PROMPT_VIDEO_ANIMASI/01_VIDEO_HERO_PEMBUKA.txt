@@ -1,0 +1,12 @@
+[PANDUAN VIDEO 01: HERO PEMBUKA]
+Platform rekomendasi: Kling AI, Runway Gen-3, Luma Dream Machine, atau Hailuo MiniMax.
+Mode: Text-to-Video (Langsung ketik prompt tanpa perlu upload gambar)
+Rasio: 16:9
+Durasi: 5 - 10 Detik
+
+PROMPT (Salin teks di bawah ini ke kolom prompt AI Video):
+Cinematic slow-motion macro shot of dark roasted whole coffee beans falling gracefully onto a rustic wooden cafe table. Delicate wisps of warm aromatic steam rising, rich golden hour backlight with warm rim lighting, shallow depth of field, 4k resolution, cinematic commercial aesthetic, smooth 60fps.
+
+GERAKAN KAMERA (Camera Motion):
+- Motion: Slow / Subtle Zoom In
+- Focus: Macro Close-up

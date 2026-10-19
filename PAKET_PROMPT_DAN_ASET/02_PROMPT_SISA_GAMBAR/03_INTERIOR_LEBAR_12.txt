@@ -1,0 +1,10 @@
+[PROMPT GAMBAR: 12_JUDUL_PECAH / INTERIOR LEBAR]
+Simpan hasil dengan nama: 12_judul_pecah.jpg
+Rasio: 16:9
+Tujuan: Dipakai untuk latar belakang judul besar yang pecah per kolom kata (seperti "Creating Generational Spaces" di Lenval Properties).
+
+PROMPT BAHASA INDONESIA:
+Buat render 3D sinematik interior lebar cafe Waroeng Kopi Sedap diambil dari sudut pintu masuk depan-kiri. Tampak seluruh ruangan cafe: lantai keramik putih mengkilap, dinding beton ekspos abu-abu, deretan meja kayu berkaki besi hitam dengan bangku cokelat tua, tanaman rambat hijau menggantung. Meja bar dengan mesin espresso merah dan rak toples kopi terlihat di latar belakang. Cahaya matahari sore yang hangat masuk menembus kaca jendela depan menciptakan bayangan panjang lembut di lantai. Kualitas render Pixar 3D, sangat detail, tanpa orang, rasio 16:9.
+
+ENGLISH VERSION:
+Wide panoramic interior view of 'Waroeng Kopi Sedap' cafe captured from the front-left entrance door looking across the entire space. Smooth exposed concrete walls, clean white ceramic tiled floor, rectangular light wood tables with black metal legs and dark brown stools. Barista counter with red espresso machine visible in the background. Warm afternoon golden sunlight streaming through the front glass windows creating long gentle shadows on the floor. Hanging green vines. cinematic 3D render, Pixar-quality, highly detailed, strictly NO PEOPLE, 16:9 --ar 16:9

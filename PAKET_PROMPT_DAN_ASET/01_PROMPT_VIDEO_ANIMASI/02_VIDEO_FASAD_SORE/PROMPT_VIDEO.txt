@@ -1,0 +1,13 @@
+[PANDUAN VIDEO 02: FASAD SORE GOLDEN HOUR]
+Platform rekomendasi: Kling AI (klingai.com), Runway Gen-3, Luma Dream Machine, atau Hailuo.
+Mode: Image-to-Video
+Langkah:
+1. Upload file gambar di samping ini: "UPLOAD_GAMBAR_INI.jpg"
+2. Salin teks prompt di bawah ke kolom teks AI video.
+
+PROMPT:
+Slow cinematic push-in forward camera movement towards the cafe front entrance door. Golden hour sunset light bathing the grey concrete facade and pavement, soft floating atmospheric dust particles in sunlight rays, peaceful and inviting atmosphere, photorealistic 3D render, smooth slow motion.
+
+PENGATURAN KAMERA (Jika platform menyediakan kontrol kamera):
+- Motion: Zoom In / Forward (Pelan / Speed 2-3)
+- No people, maintain exact building geometry and signage.

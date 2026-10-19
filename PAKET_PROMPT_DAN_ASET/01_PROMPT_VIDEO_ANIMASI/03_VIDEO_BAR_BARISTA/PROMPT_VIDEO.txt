@@ -1,0 +1,13 @@
+[PANDUAN VIDEO 03: AREA BAR BARISTA]
+Platform rekomendasi: Kling AI (klingai.com), Runway Gen-3, Luma Dream Machine, atau Hailuo.
+Mode: Image-to-Video
+Langkah:
+1. Upload file gambar di samping ini: "UPLOAD_GAMBAR_INI.jpg"
+2. Salin teks prompt di bawah ke kolom teks AI video.
+
+PROMPT:
+Slow cinematic horizontal pan from left to right across the barista coffee bar. Delicate aromatic steam rising gently from the red espresso machine, subtle warm light reflections on the light wooden countertop, cozy coffee shop ambiance, crisp details, smooth 60fps cinematic movement.
+
+PENGATURAN KAMERA:
+- Motion: Pan Right (Pelan / Speed 2)
+- Maintain coffee grinders, glass bean jars, and red espresso machine in crisp focus.

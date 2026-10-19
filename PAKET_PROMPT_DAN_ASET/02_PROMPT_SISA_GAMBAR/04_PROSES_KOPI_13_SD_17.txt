@@ -1,0 +1,33 @@
+[PROMPT GAMBAR: 13 s/d 17 PROSES KOPI LENGKAP]
+Rasio: 4:3 (atau 16:9)
+Tujuan: Menggantikan visual tab 1.0 s/d 5.0 di website.
+
+----------------------------------------------------------------------
+1. TAHAP 1.0: BIJI KOPI HIJAU PILIHAN
+Simpan nama file: 13_proses_biji.jpg
+Prompt:
+Macro close-up shot of raw green Arabica coffee beans spilling gently out of a vintage rustic jute burlap sack onto a dark aged wooden table. Soft warm morning directional sunlight, fine organic dust, shallow depth of field, warm cozy earthy tones, cinematic 3D render, highly detailed, 4:3 ratio
+
+----------------------------------------------------------------------
+2. TAHAP 2.0: SANGRAI PRESIISI (ROASTING)
+Simpan nama file: 14_proses_sangrai.jpg
+Prompt:
+Close-up inside an industrial coffee drum roaster showing dark aromatic brown roasted coffee beans tumbling and churning, subtle warm wisps of aromatic smoke, glowing warm golden light from the roasting burner element. Rich dark chocolate tones, cinematic 3D render, photorealistic, 4:3 ratio
+
+----------------------------------------------------------------------
+3. TAHAP 3.0: GILINGAN SEGAR (GRINDING)
+Simpan nama file: 15_proses_giling.jpg
+Prompt:
+Close-up of a matte black professional coffee grinder dispensing freshly ground dark brown coffee powder into a stainless steel portafilter on a light oak wooden bar counter. Delicate airborne coffee particles catching a beam of warm sunlight, shallow depth of field, cinematic 3D render, 4:3 ratio
+
+----------------------------------------------------------------------
+4. TAHAP 4.0: EKSTRAKSI ESPRESSO 9-BAR
+Simpan nama file: 16_proses_seduh.jpg
+Prompt:
+Extreme macro shot of rich golden-hazelnut espresso crema pouring steadily from a bottomless portafilter into a warm white ceramic espresso cup. Glossy liquid texture, micro crema bubbles, soft rising steam, dark background with warm amber rim light, cinematic 3D render, 4:3 ratio
+
+----------------------------------------------------------------------
+5. TAHAP 5.0: PENYAJIAN LATTE ART SEMPURNA
+Simpan nama file: 17_proses_sajikan.jpg
+Prompt:
+Top-angle close-up shot of a white ceramic cup of hot Cafe Latte with intricate rosetta latte art, placed on a light oak wood saucer next to a small vintage brass spoon on a concrete-and-wood coffee bar table. Warm cozy cafe ambiance softly blurred in the background. cinematic 3D render, 4:3 ratio

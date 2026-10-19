@@ -1,0 +1,13 @@
+[PANDUAN VIDEO 07: TERAS SEMI-OUTDOOR]
+Platform rekomendasi: Kling AI (klingai.com), Runway Gen-3, Luma Dream Machine, atau Hailuo.
+Mode: Image-to-Video
+Langkah:
+1. Upload file gambar di samping ini: "UPLOAD_GAMBAR_INI.jpg"
+2. Salin teks prompt di bawah ke kolom teks AI video.
+
+PROMPT:
+Slow cinematic pan and subtle zoom across the semi-outdoor terrace cafe seating. Lush broad tropical leaves of potted plants gently swaying in a warm soft breeze, golden afternoon sunlight creating moving organic shadows on the concrete wall and floor, relaxing airy cafe vibe, 5 seconds.
+
+PENGATURAN KAMERA:
+- Motion: Pan / Subtle Drift (Speed 2)
+- Focus: Potted plants, wooden tables, metal canopy roof.

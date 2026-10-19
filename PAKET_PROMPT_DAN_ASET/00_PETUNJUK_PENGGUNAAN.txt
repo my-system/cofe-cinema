@@ -1,0 +1,57 @@
+======================================================================
+PAKET PROMPT & ASET WAROENG KOPI SEDAP (SIAP GENERATE)
+======================================================================
+
+Folder ini dibuat khusus agar Anda bisa langsung membuka tiap folder dan
+mengirimkan isinya sekaligus ke AI Video atau AI Gambar tanpa bingung.
+
+----------------------------------------------------------------------
+STRUKTUR FOLDER:
+----------------------------------------------------------------------
+
+📁 01_PROMPT_VIDEO_ANIMASI/
+   Folder ini berisi prompt video dan GAMBAR SUMBERNYA (sudah saya masukkan di tiap folder):
+
+   1. 01_VIDEO_HERO_PEMBUKA/
+      -> File: 01_VIDEO_HERO_PEMBUKA.txt
+      -> Mode: Text-to-Video (biji kopi jatuh slow-mo)
+
+   2. 02_VIDEO_FASAD_SORE/
+      -> Buka file UPLOAD_GAMBAR_INI.jpg (sudah ada di dalam)
+      -> Buka PROMPT_VIDEO.txt, upload gambar tersebut ke Kling/Runway, lalu paste prompt-nya.
+
+   3. 03_VIDEO_BAR_BARISTA/
+      -> Berisi gambar bar barista & prompt video pan horizontal + uap mesin espresso.
+
+   4. 04_VIDEO_SPOT_FOTO/
+      -> Berisi gambar spot foto & prompt video orbit neon "Kopi & Cerita".
+
+   5. 05_VIDEO_FASAD_MALAM/
+      -> Berisi gambar malam & prompt video lampu gantung temaram.
+
+   6. 06_VIDEO_INTERIOR_DOLLY/
+      -> Berisi gambar interior & prompt video kamera maju pelan ke arah bar.
+
+   7. 07_VIDEO_TERAS_OUTDOOR/
+      -> Berisi gambar outdoor & prompt video daun tanaman bergoyang lembut tertiup angin.
+
+----------------------------------------------------------------------
+📁 02_PROMPT_SISA_GAMBAR/
+   Berisi prompt teks siap salin ke Gemini Web / Midjourney / Leonardo AI:
+
+   1. 01_TAMPAK_UDARA_AERIAL_10.txt  -> Simpan sebagai: 10_tampak_udara.jpg
+   2. 02_SKETSA_ARSITEKTUR_11.txt    -> Simpan sebagai: 11_sketsa_cafe.jpg
+   3. 03_INTERIOR_LEBAR_12.txt       -> Simpan sebagai: 12_judul_pecah.jpg
+   4. 04_PROSES_KOPI_13_SD_17.txt    -> Simpan sebagai: 13 s/d 17 proses kopi
+   5. 05_PRODUK_MENU_KOPI_3D.txt     -> Simpan sebagai: menu_es_kopi_sedap.jpg, dll.
+
+----------------------------------------------------------------------
+CARA MEMASUKKAN HASIL KE WEBSITE:
+----------------------------------------------------------------------
+Setiap kali Anda selesai men-download video (.mp4) atau gambar (.jpg),
+cukup COPY dan PASTE file tersebut ke dalam folder:
+
+📂 D:\VIBE CODING\PROFIL CAFE CINEMATIC\public\assets\
+
+Website Anda di http://localhost:5173/ akan otomatis mendeteksi dan memperbarui tampilannya!
+======================================================================

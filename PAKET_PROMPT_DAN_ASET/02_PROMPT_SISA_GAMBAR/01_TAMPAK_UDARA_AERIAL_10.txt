@@ -1,0 +1,10 @@
+[PROMPT GAMBAR: 10_TAMPAK_UDARA]
+Simpan hasil dengan nama: 10_tampak_udara.jpg
+Rasio: 16:9
+Gunakan di: Gemini Web, Midjourney, Leonardo AI, atau Flux.
+
+PROMPT (Salin seluruh teks di bawah):
+Buat gambar 3D sinematik: drone view sudut 45 derajat melihat bangunan ruko cafe 1 lantai Waroeng Kopi Sedap. Dinding luar beton ekspos abu-abu polos, atap seng bergelombang dengan ventilasi dan toren air di pojok belakang. Kanopi seng membentang di atas teras depan dengan papan nama kayu bertuliskan "WAROENG KOPI SEDAP" huruf tebal gelap. Teras depan bersih dengan meja kayu dan bangku cokelat. Tikungan jalan aspal melengkung di depan cafe, deretan bangunan ruko tetangga beratap genteng tanah liat merah. Pencahayaan golden hour sore hari yang hangat, bayangan panjang lembut. Kualitas render 3D Pixar, arsitektur sangat detail, tanpa orang, tanpa motor, rasio 16:9.
+
+ENGLISH VERSION (Untuk Midjourney / Flux):
+Drone aerial view at a 45-degree angle looking down at a single-storey modern shophouse cafe 'Waroeng Kopi Sedap'. Smooth grey concrete exterior walls, corrugated metal roof with rooftop exhaust vents and water tanks at the rear corner, corrugated zinc canopy extending over front porch with wooden signboard 'WAROENG KOPI SEDAP'. Clean front concrete terrace with rectangular wooden tables and dark brown stools. Curving asphalt street corner in front, neighboring low-rise townhouses with terracotta tile roofs. Warm golden hour late-afternoon sunlight, long soft shadows. cinematic 3D architectural render, Pixar-quality realistic materials, warm palette, highly detailed, strictly NO PEOPLE, 16:9 --ar 16:9

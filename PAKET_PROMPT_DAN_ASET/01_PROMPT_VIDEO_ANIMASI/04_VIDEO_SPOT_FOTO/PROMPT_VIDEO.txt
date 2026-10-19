@@ -1,0 +1,13 @@
+[PANDUAN VIDEO 04: SPOT FOTO NEON KOPI & CERITA]
+Platform rekomendasi: Kling AI (klingai.com), Runway Gen-3, Luma Dream Machine, atau Hailuo.
+Mode: Image-to-Video
+Langkah:
+1. Upload file gambar di samping ini: "UPLOAD_GAMBAR_INI.jpg"
+2. Salin teks prompt di bawah ke kolom teks AI video.
+
+PROMPT:
+Slow subtle cinematic orbital camera movement around the two rattan chairs and round table. The warm neon sign 'Kopi & Cerita' glows warmly on the concrete wall with gentle soft light pulses, hanging ivy leaves sway subtly, warm cozy ambient lighting, peaceful interior atmosphere, photorealistic.
+
+PENGATURAN KAMERA:
+- Motion: Orbit or Slow Pan (Speed 2)
+- Focus: Neon sign 'Kopi & Cerita', rattan chairs, and brick pillar.

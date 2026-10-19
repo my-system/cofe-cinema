@@ -1,0 +1,10 @@
+[PROMPT GAMBAR: 11_SKETSA_CAFE]
+Simpan hasil dengan nama: 11_sketsa_cafe.jpg
+Rasio: 4:3 atau 16:9
+Tujuan: Dipakai di section krem transisi (seperti section "Architecture for a Bespoke Life" di Lenval Properties).
+
+PROMPT BAHASA INDONESIA:
+Buat gambar sketsa arsitektur tangan minimalis fasad depan Waroeng Kopi Sedap. Garis pensil hitam dan arsir halus yang bersih di atas kertas gambar bertekstur warna krem polos. Memperlihatkan bangunan ruko satu lantai, kanopi seng, papan nama kayu "WAROENG KOPI SEDAP", jendela kaca besar berbingkai hitam, panel kayu bersirip di sisi kanan, serta meja kursi teras luar. Gambar perspektif arsitektur elegan, tanpa warna (monokrom garis hitam di atas krem), tanpa orang, bersih dan berkelas.
+
+ENGLISH VERSION:
+Minimalist architectural hand-drawn line sketch of 'Waroeng Kopi Sedap' cafe front facade. Clean black ink lines and fine pencil hatching on plain textured warm cream paper background. Showing the single-storey building, zinc canopy, wooden signboard 'WAROENG KOPI SEDAP', glass windows, vertical wood slats, and outdoor terrace tables. Perspective drawing, sophisticated architectural elevation, no colors, pure elegant linework, no people, clean aesthetic --ar 16:9

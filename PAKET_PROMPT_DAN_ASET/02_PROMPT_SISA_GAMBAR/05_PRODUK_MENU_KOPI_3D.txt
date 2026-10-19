@@ -1,0 +1,27 @@
+[PROMPT GAMBAR: 4 PRODUK MENU KOPI 3D SINEMATIK]
+Rasio: 16:9
+Tujuan: Mengganti visual kartu menu produk & iklan digital.
+
+----------------------------------------------------------------------
+1. ES KOPI SEDAP SIGNATURE
+Simpan nama file: menu_es_kopi_sedap.jpg
+Prompt:
+Commercial hero beverage photography of an iced palm sugar milk coffee (Es Kopi Susu Gula Aren) in a tall minimalist faceted glass. Crystal-clear square ice cubes, frosty condensation beads on the exterior. Three gorgeous distinct layers: rich dark espresso on top, creamy white fresh milk in the center, and thick amber-brown organic palm sugar syrup at the base. Placed on a light oak wood bar top with glossy soft reflections. Warm golden backlighting, cozy cafe background blurred with warm bokeh, cinematic 3D render, 8k commercial quality, 16:9
+
+----------------------------------------------------------------------
+2. MANUAL BREW GAYO WINE
+Simpan nama file: menu_manual_brew_gayo.jpg
+Prompt:
+Commercial hero shot of single-origin pour-over specialty coffee. A clear glass V60 server pot and matching glass cup filled with translucent ruby-amber filter coffee. A stylish matte black gooseneck pouring kettle and glass V60 dripper rest nearby on a natural timber tray. Delicate steam rising in a shaft of morning sunlight, cozy cafe interior background softly out of focus, cinematic 3D render, 16:9
+
+----------------------------------------------------------------------
+3. KOPI SUSU PANDAN WANGI
+Simpan nama file: menu_kopi_susu_pandan.jpg
+Prompt:
+Signature aromatic layered iced coffee in an elegant tall glass tumbler. Layers: vibrant fragrant emerald green pandan syrup at the base, creamy fresh milk in the middle, topped with a dark crema-rich espresso float, garnished with a fresh folded pandan leaf tied with rustic twine. Cold condensation droplets, sitting on a smooth concrete bar table under warm spotlight, cinematic 3D render, 16:9
+
+----------------------------------------------------------------------
+4. ESPRESSO TONIC CITRUS
+Simpan nama file: menu_espresso_tonic.jpg
+Prompt:
+Refreshing summer coffee mocktail in a sleek highball glass. Effervescent tonic water with vigorous rising carbonation bubbles at the bottom, topped with a distinct floating layer of dark espresso crema. Garnished with a dehydrated yellow lemon wheel and a fresh rosemary sprig. Bright crisp lighting with dramatic rim highlights, ice-cold condensation, placed on a dark slate coaster on a wooden table, cinematic 3D render, 16:9

@@ -1,0 +1,13 @@
+[PANDUAN VIDEO 05: FASAD MALAM TEMARAM]
+Platform rekomendasi: Kling AI (klingai.com), Runway Gen-3, Luma Dream Machine, atau Hailuo.
+Mode: Image-to-Video
+Langkah:
+1. Upload file gambar di samping ini: "UPLOAD_GAMBAR_INI.jpg"
+2. Salin teks prompt di bawah ke kolom teks AI video.
+
+PROMPT:
+Cinematic nighttime scene, static or very slow subtle camera drift. Warm fairy string lights under the canopy gently flicker and glow with warm amber light, illuminated wooden signboard 'WAROENG KOPI SEDAP', warm cozy interior light glowing through the glass facade, peaceful night street ambience, slow motion.
+
+PENGATURAN KAMERA:
+- Motion: Static or Subtle Floating Drift (Speed 1)
+- Focus: String lights and illuminated signboard.

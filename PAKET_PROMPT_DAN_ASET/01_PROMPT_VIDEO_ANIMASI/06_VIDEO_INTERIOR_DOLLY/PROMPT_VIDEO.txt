@@ -1,0 +1,13 @@
+[PANDUAN VIDEO 06: DOLLY INTERIOR UTAMA]
+Platform rekomendasi: Kling AI (klingai.com), Runway Gen-3, Luma Dream Machine, atau Hailuo.
+Mode: Image-to-Video
+Langkah:
+1. Upload file gambar di samping ini: "UPLOAD_GAMBAR_INI.jpg"
+2. Salin teks prompt di bawah ke kolom teks AI video.
+
+PROMPT:
+Slow cinematic dolly-in camera moving smoothly forward through the center aisle between wooden dining tables towards the barista bar at the far end. Ceiling fans slowly rotating overhead, warm afternoon sunlight beams casting soft shadows on the white tile floor and exposed concrete wall, serene and spacious cafe interior.
+
+PENGATURAN KAMERA:
+- Motion: Dolly In / Forward (Speed 2)
+- Smooth linear glide, maintain symmetry.
